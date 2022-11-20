@@ -1,0 +1,9 @@
+#divTabla {
+    overflow: scroll;
+    height: 300px;
+    /*width: 500px;*/
+}
+
+#divTabla table {
+    /*width: 500px;*/
+}
